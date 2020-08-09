@@ -4,7 +4,7 @@ Stary running Apache and mysql.
 Add these file in
 C:\xampp\htdocs\<folder-name>
 while running your code add URL as localhost
-basically
+Basically
 file:///C:/xampp/htdocs/akhil/cards.php  >> http://localhost/akhil/cards.php
 
 
